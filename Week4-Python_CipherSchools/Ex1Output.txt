@@ -1,0 +1,4 @@
+Name: Harshit's salary is 500
+Name: Mohit's salary is 300
+Name: Ram's salary is 750
+Name: Shrey's salary is 1000

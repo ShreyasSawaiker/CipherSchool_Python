@@ -1,0 +1,4 @@
+Harshit,500
+Mohit,300
+Ram,750
+Shrey,1000
